@@ -11,3 +11,4 @@ urllib3
 gdshortener
 gevent
 netaddr
+termcolor
