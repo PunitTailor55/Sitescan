@@ -17,9 +17,9 @@ from shells 		import findShells
 from adminpanel 	import findAdminPanel
 from banner 		import grabBanner
 from dnsdump        import dnsdump
-from a2sv           import a2svmain
+#from a2sv           import a2svmain
 from brutexss       import xssscanmain
 from lfiscanner     import LFIscanner
-from advancesubdomain import advancesubdomain
+#from advancesubdomain import advancesubdomain
 def __init__(self, xssscanmain):
      self.xssscanmain = xssscanmain()
