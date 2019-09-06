@@ -15,7 +15,7 @@ from modules import dnsdump
 #from modules import a2svmain
 from modules import xssscanmain
 from modules import LFIscanner
-from modules.Sublist3r.sublist3r import advancesubdomains 
+#from modules.Sublist3r.sublist3r import advancesubdomains 
 
 #####################################################################################################
         ################################   Some Variables!   ################################ 
