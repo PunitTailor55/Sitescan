@@ -12,10 +12,8 @@ from modules import ManualCrawl,    nameServers
 from modules import reverseViaHT,   reverseViaYGS
 from modules import whoIS,          websiteSpeed
 from modules import dnsdump
-#from modules import a2svmain
 from modules import xssscanmain
 from modules import LFIscanner
-#from modules.Sublist3r.sublist3r import advancesubdomains 
 
 #####################################################################################################
         ################################   Some Variables!   ################################ 
